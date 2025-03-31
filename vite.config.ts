@@ -6,7 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/AI-Ethics-Assessment-Portal/vue-project3/",
+  base: "/vue-project3/",
   plugins: [
     vue(),
     vueDevTools(),
